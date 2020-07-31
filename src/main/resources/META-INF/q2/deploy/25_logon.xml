@@ -1,0 +1,3 @@
+<iso-bridge class="com.example.LogonManager" logger="Q2">
+    <property name="tno" value="je:sequencers:log/raftSequencers"/>
+</iso-bridge>
